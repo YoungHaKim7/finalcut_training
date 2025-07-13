@@ -32,6 +32,10 @@ command + 4
 # macOS 공식 문서
 - https://support.apple.com/ko-kr/guide/final-cut-pro/
 
+
+- english ver
+  - https://help.apple.com/pdf/final-cut-pro/en_US/final-cut-pro-user-guide.pdf
+
 # Mac용 Final Cut Pro에서 모양 추가하기
 - https://support.apple.com/ko-kr/guide/final-cut-pro/veradb834a0/mac
 
