@@ -29,6 +29,14 @@ command + 4
 
 <hr />
 
+# macOS 공식 문서
+- https://support.apple.com/ko-kr/guide/final-cut-pro/
+
+# Mac용 Final Cut Pro에서 모양 추가하기
+- https://support.apple.com/ko-kr/guide/final-cut-pro/veradb834a0/mac
+
+<hr />
+
 # 파이널 컷 유튜브 영상
 
 # 파이널 컷 한시간에 끝내기 | Dragon Lake
