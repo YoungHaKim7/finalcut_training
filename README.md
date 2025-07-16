@@ -46,6 +46,10 @@ command + 4
 # 파이널 컷 한시간에 끝내기 | Dragon Lake
 - https://youtu.be/2aORJ7hKVMI?si=z_pdzWgEk7SDHyeT
 
-#  파이널컷 프로 영상 밝기 조절 보정 편집 방법 / 그래프와 수치로 맞추세요
+# 파이널컷 프로 영상 밝기 조절 보정 편집 방법 / 그래프와 수치로 맞추세요
 파이널컷무비 finalcut-m
 - https://youtu.be/ZNMCtM2sbbY?si=fRE4Cc5UJLDf3ei0
+
+# 초보들을 위한 파이널컷 프로 색보정 하는 법 알려드림 Final Cut Pro, Color grading, lumix gh6
+- 비디오그래퍼 장원경
+- https://youtu.be/-mZJu4AEG40?si=1bWot1Vixn1MT632
